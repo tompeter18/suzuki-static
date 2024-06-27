@@ -1,0 +1,405 @@
+.topsection{
+    height: 75px;
+    width: 100%;
+    background: #000;
+    float: left;
+
+}.topleft{
+    width: 25%;
+    height: 75px;
+    float: left;
+    background: #fff;
+    padding-top: 25px;
+}
+.topcenter{
+    width: 48%;
+    float: left;
+    height: 75px;
+    background:white;
+}
+.topright{
+    height: 71px;
+    width: 20%;
+    float: left;
+    background: #faf7f7;
+    padding: 2px;
+    border: 10px;
+    border-color: #cca73f;
+    phone hidden-xs li a{
+        text-decoration: none;
+        color: #fff;
+    }
+}
+
+.toplast{
+    width:6%;
+    height: 75px;
+    background: white;
+    padding-top:20px;
+    float: left;
+}
+.navbar1{
+    font-family:sans-serif;
+    line-height: 1;
+    font-size: 12px;
+    cursor: pointer;
+    color: #000;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-align: center;
+    padding-left: 20px;
+
+}
+.icon-email{
+    font-size: small;
+    font-family: sans-serif;
+    color: black;
+}
+.topbottom{
+    width: 100%;
+    height:700px;
+    background: white;
+    font-size: medium;
+    float: left;
+}
+.intro{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    
+    
+}
+.middle1{
+    
+    text-align: center;
+    line-height: 1px;
+    float: left;
+    width: 100%;
+}.topBorderSection
+{
+    
+    border-top: solid 3px red;
+    display: inline-block;
+    width: 35px;
+    margin-top: 20px;
+    align-items: center;
+}
+.introduction{
+    width: 100%;
+    float: left;
+    background: url(IntroBgSection.jpg) left top / 100% 100% no-repeat;
+    height: 100vh;
+}
+.arinaPhilosphySection{
+    background:url(../images/philosphyBg.jpg) left top / 100% 100% no-repeat;
+    padding: 30px 0 0;
+   
+    
+}.philosophyContentSection {
+    width: 100%;
+    float: left;
+    padding-left: 444px;
+}
+
+.arinaPhilosphySection .headingSection1 h3 {
+    
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 55px;
+    font-weight: 100;
+}
+.arinaPhilosphySection .philosophyContentSection .boxes:first-child {
+    border-right: 1px solid #e1e1e2;
+}
+.arinaPhilosphySection .philosophyContentSection .boxes {
+    width: 300px;
+    float: left;
+    padding-right: 1%;
+    margin: 0 3%;
+}
+ .arinaPhilosphySection .philosophyContentSection .boxes p {
+    width: 74%;
+    display: block;
+    font-size: 14px;
+    color: #171717;
+    line-height: 20px;
+    text-align: center;
+    padding: 0 0 15px;
+    margin: 0;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}.text1{
+
+    width: 50%;
+    height: 800px;
+    background:url(Navigation-portal-Web.jpg );background-size: contain; background-repeat:no-repeat;
+    padding-left: 50%;
+    line-height:2;
+    
+
+}
+.text2{
+    width: 50%;
+    height: 800px;
+    background:url(CafeWeb.jpg);background-size: contain; background-repeat:no-repeat;
+    padding-left: 50%;
+    line-height:2;
+
+}
+.text3{
+    width: 50%;
+    height: 800px;
+    background:url(Product-design-Web.png);background-size: contain; background-repeat:no-repeat;
+    padding-left: 50%;
+    line-height:2;
+}
+.text4{
+    width: 50%;
+    height: 800px;
+    background:url(iCreate-Web.jpg);background-size: contain; background-repeat:no-repeat;
+    padding-left: 50%;
+    line-height:2;
+}
+.text5{
+    width: 50%;
+    height: 800px;
+    background:url(Lounge-Web.jpg);background-size: contain; background-repeat:no-repeat;
+    padding-left: 50%;
+    line-height:2;
+}
+.topBorderSectionslider
+{
+    
+    border-top: solid 3px red;
+    display: inline-block;
+    width: 75px;
+    margin-left: 360px;
+    
+}
+.headerblock{
+    line-height: 2px;
+    text-decoration: none;
+    
+    
+}
+.topBorderSectionslider2
+{
+    
+    border-top: solid 3px rgb(26, 18, 111);
+    display: inline-block;
+    width: 35px;
+    margin-left: 773px;
+    
+    
+}
+.tab{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    color: #212529;
+
+    background-color: #fff;
+}
+*{
+    text-decoration: none;
+    
+}
+.navbar{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 37%;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.navdiv{
+    display: flex;
+    text-align: center;
+    
+
+li{
+    list-style: none;
+    display: inline-block;
+
+}
+li a{
+    color: black;
+    font-size: 15px;
+    margin-right: 25px;
+}}
+.carslide{
+
+    width: 100%;
+    height: 300px;
+    padding-left: 15px;
+    background:#fff;
+    
+}
+.car{
+    list-style: none;
+    display: inline-block;
+    width: 310px;
+    height: 305px;
+    background: #fff;
+        
+    }
+.image1{
+    padding-left: 15px;
+    width: 300px;
+    height: 240px;
+}
+.image2{
+    padding-left: 55px;
+    width: 130px;
+    height: 50px;
+}
+.view{
+    width: 100px;
+    height: 30px;
+    background: #000;
+    color: #fff; 
+}
+.viewcar{
+    padding-left: 730px;
+    padding-top: 25px;
+}
+.footer{
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    height: 500px;
+    background: #2d2f30;
+}
+.footertop{
+    float: left;
+    list-style: none;
+    display: inline-block;
+    height: 380px;
+    width: 100%;
+    background: #2d2f30;
+    
+}
+.footerbottom{
+    float: left;
+    height: 125px;
+    width: 100%;
+    background:#2d2f30;
+    color: #fff;
+    font-size: 10px;
+}
+.footertop1{
+    float: left;
+    height: 380px;
+    width: 404px;
+    background: #2d2f30;
+}
+.footertop2{
+    margin-top: 0px;
+    float: left;
+    width:250px;
+    height: 380px;
+    background:#2d2f30;
+       
+}
+.footertoplast{
+    float: left;
+    width: 430px;
+    height: 380px;
+    background: #2d2f30;
+}
+.btn{
+    padding-left: 10px;
+    width: 170px;
+    height: 30px;
+    font-size: 12px;
+    vertical-align:-webkit-baseline-middle;
+}
+.h4{
+    color: #d6d6d6;
+    font:caption;
+    font-size: small;
+}
+.h5{
+    color: #d6d6d6;
+    text-decoration: none;
+    font:small-caption;
+    line-height: .6;
+    font-weight: ;
+}.footerlast{
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+.footerlastleft{
+    width: 40%;
+    height: 40px;
+    background: #000;
+    float: left;
+    color: #d6d6d6;
+    
+}.footerlastright{
+    float:left;
+    background: #000;
+    width: 60%;
+    height: 40px;
+    color: white;
+
+}.table{
+    font-size: medium;
+}.play-store-link{
+    font-size: 1rem;
+font-weight: 400;
+line-height: .5;
+font-family: "Lato Regular",sans-serif;
+color: #fff;
+display: block;
+float: left;
+width: 90%;
+padding: 2px 0 18px;
+text-align: right;
+}.foter-mail-cno{ 
+    line-height: .5;
+    font-family: "Lato Regular",sans-serif;
+    color: #fff;
+    text-align: right!important;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    padding-right: 15px;
+}.pull-right{
+
+    display: flex;
+    text-align: center;
+    padding-left: 200px;
+    
+
+li{
+    list-style: none;
+    display: inline-block;
+
+}
+li a{
+    color: black;
+    font-size: 15px;
+    margin-right: 15px;
+
+    
+}
+}.play-store-link{
+    float: right;
+}.whats_app_qr_code{
+
+    padding: 25 0 0;
+    clear: both;
+    line-height: 1;
+}
